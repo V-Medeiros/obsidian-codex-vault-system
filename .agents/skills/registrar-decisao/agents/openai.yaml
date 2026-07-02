@@ -1,0 +1,4 @@
+interface:
+  display_name: "Registrar Decisao"
+  short_description: "Registra decisoes, contexto e proximos passos no vault."
+  default_prompt: "Use esta skill para registrar uma decisao importante tomada durante estudos, projetos ou trabalho no Codex."

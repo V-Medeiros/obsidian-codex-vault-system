@@ -1,0 +1,4 @@
+interface:
+  display_name: "Processar Fonte"
+  short_description: "Transforma fontes brutas em notas uteis no Obsidian."
+  default_prompt: "Use esta skill para transformar uma transcricao, PDF, print, conversa ou ideia em uma nota Markdown conectada ao vault."

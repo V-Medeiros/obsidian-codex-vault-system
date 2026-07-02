@@ -1,0 +1,4 @@
+interface:
+  display_name: "Registrar Log"
+  short_description: "Registra sessoes, pendencias e aprendizados do Codex no vault."
+  default_prompt: "Use esta skill para registrar uma sessao de trabalho no Obsidian, incluindo objetivo, acoes, arquivos alterados, pendencias e aprendizados."

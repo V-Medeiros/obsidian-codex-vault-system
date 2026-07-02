@@ -1,0 +1,4 @@
+interface:
+  display_name: "Conectar Notas"
+  short_description: "Sugere conexoes coerentes entre notas usando wikilinks."
+  default_prompt: "Use esta skill para revisar uma nota ou tema e sugerir conexoes [[wikilink]] sem baguncar a estrutura existente."

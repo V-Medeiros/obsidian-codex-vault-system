@@ -1,0 +1,28 @@
+# Private vault content
+00 - Inbox/
+01 - Source Materials/
+02 - Knowledge/
+03 - To Do/
+04 - Projects/
+05 - Daily Notes/
+06 - Operations/Logs.md
+06 - Operations/Decisoes.md
+06 - Operations/Aprendizados.md
+
+# Obsidian and plugin state
+.obsidian/
+.smart-env/
+.makemd/
+.space/
+.trash/
+
+# Sensitive or local files
+*.mdenc
+*.sync-conflict*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keep the demo vault
+!example-vault/
+!example-vault/**

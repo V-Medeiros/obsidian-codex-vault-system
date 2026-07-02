@@ -1,0 +1,4 @@
+interface:
+  display_name: "Criar Conceito"
+  short_description: "Cria notas conceituais conectadas em 02 - Knowledge."
+  default_prompt: "Use esta skill para criar ou aprimorar uma nota de conceito em 02 - Knowledge com resumo, explicacao, exemplos e wikilinks."
