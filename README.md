@@ -162,6 +162,10 @@ O projeto foi desenhado para proteger conteudo pessoal do vault:
 Ao personalizar, prefira regras especificas, caminhos reais e exemplos curtos.
 Isso ajuda o Codex a tomar decisoes melhores sem depender de memoria implicita.
 
+<img width="540" height="530" alt="image" src="https://github.com/user-attachments/assets/798c51f5-2a49-4347-bc01-eadbf7be65f9" />
+
+
+
 ## Licenca
 
 Este projeto esta licenciado sob a licenca MIT. Veja `LICENSE` para detalhes.
